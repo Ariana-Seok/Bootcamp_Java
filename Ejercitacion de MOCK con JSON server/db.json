@@ -1,0 +1,50 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Memoria Crucial DDR4 8GB 2666MHz Basics",
+      "precio": 26900,
+      "categoriaId": 1
+    },
+    {
+      "id": "2",
+      "nombre": "Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Z Grey",
+      "precio": 27400,
+      "categoriaId": 1
+    },
+    {
+      "id": "3",
+      "nombre": "Procesador AMD RYZEN 3 3200G 4.0GHz Turbo + Radeon Vega 8 AM4 Wraith Stealth Cooler",
+      "precio": 100000,
+      "categoriaId": 2
+    },
+    {
+      "id": "4",
+      "nombre": "Procesador AMD Ryzen 5 5600X 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
+      "precio": 255000,
+      "categoriaId": 2
+    },
+    {
+      "id": "6",
+      "nombre": "Memoria Team DDR4 8GB 3200MHz Elite Plus Red",
+      "precio": 28400,
+      "categoriaId": 1
+    },
+    {
+      "id": "7",
+      "nombre": "Memoria Kingston DDR4 8GB 3200MHz Fury Beast RGB CL16",
+      "precio": 34500,
+      "categoria": 1
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Memorias RAM"
+    },
+    {
+      "id": "2",
+      "nombre": "Procesadores"
+    }
+  ]
+}
